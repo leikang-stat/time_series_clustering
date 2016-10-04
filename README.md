@@ -1,7 +1,6 @@
-# Clustering Analysis of Airport Capacity-demand Scenarios for Strategic Air Traffic Management
+# Bivariate time series clustering of airport capacity and demand
 
-
-Bivariate time series clustering of airport capacity and demand <br />
+Clustering Analysis of Airport Capacity-demand Scenarios for Strategic Air Traffic Management <br />
 
 Final report.pdf includes report write up and R code <br />
 SFO_new.csv includes all relevant data <br />
